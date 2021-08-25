@@ -5,8 +5,8 @@
 - 🔭 I’m currently working on iOS dev 
 - 🌱 I’m currently learning  environment
 
-### Spotify Playing 🎧
-[![Spotify](https://spotgit.glamvian.vercel.app/api/spotify)](https://open.spotify.com/user/vos1qop9z47veyd7uj9axuurz)
+<!-- ### Spotify Playing 🎧
+[![Spotify](https://spotgit.glamvian.vercel.app/api/spotify)](https://open.spotify.com/user/vos1qop9z47veyd7uj9axuurz) -->
 
 ### Connect with me 
 [<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
