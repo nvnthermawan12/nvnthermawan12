@@ -2,7 +2,7 @@
 
 - 😎 Call me Vian
 - 😄 Pronouns v EE ae n
-- 🔭 I’m currently working at IDN Media as iOS Engineer 
+- 📱 I’m currently working at IDN Media as iOS Engineer 
 - 🌱 I’m currently learning  environment
 
 <!-- ### Spotify Playing 🎧
