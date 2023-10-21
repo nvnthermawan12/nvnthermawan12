@@ -26,7 +26,7 @@
 <br />
 <br />
 
-![Vian's github stats](https://github-readme-stats.vercel.app/api?username=nvnthermawan12&count_private=true&show_icons=true&theme=vue)
+<!--- ![Vian's github stats](https://github-readme-stats.vercel.app/api?username=nvnthermawan12&count_private=true&show_icons=true&theme=vue) --->
 
 
 [linkedin]: https://www.linkedin.com/in/novianto-hermawan-36a522172/
